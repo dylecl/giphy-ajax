@@ -1,0 +1,15 @@
+.container {
+    background:white;
+    width: 80%
+}
+.btn-primary {
+    margin: 3px;
+}
+
+#image-holder {
+    margin-top: 2%
+}
+
+body {
+    background: cyan;
+}
